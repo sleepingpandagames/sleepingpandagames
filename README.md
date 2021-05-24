@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity 3D
 - 💞️ I’m looking to collaborate on gamedev related tools or projects
-- 📫 You can reach me at antoine@sleepingpanda.games
+- 📫 You can reach me at antoine@sleepingpanda.games or DM me at https://twitter.com/__sleepingpanda
 
 <!---
 sleepingpandagames/sleepingpandagames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
